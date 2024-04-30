@@ -1,4 +1,6 @@
 ## Comandos basicos de Git y Github
+
+
     Configurar Git:
         git config --global user.name "Tu Nombre": Configura tu nombre de usuario en Git.
         git config --global user.email "tu@email.com": Configura tu dirección de correo electrónico en Git.
